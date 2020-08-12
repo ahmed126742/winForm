@@ -1,0 +1,15 @@
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\Itagency.exe.config
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\Itagency.exe
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\Itagency.pdb
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.csprojAssemblyReference.cache
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.Form1.resources
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.Properties.Resources.resources
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.csproj.GenerateResource.cache
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.csproj.CoreCompileInputs.cache
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.exe
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.pdb
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\EntityFramework.dll
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\EntityFramework.xml
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed abudeif\source\repos\Itagency\Itagency\obj\Debug\Itagency.csproj.CopyComplete
